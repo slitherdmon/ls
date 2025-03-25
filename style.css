@@ -1,0 +1,24 @@
+.banner p {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid;
+}
+p {
+    font-family: arial;
+}
+.header {
+    font-family: arial;
+    text-align: center;
+}
+.games {
+    border: 1px solid;
+    padding: 45px;
+    display: none;
+}
+.games h1 {
+    text-align: center;
+    font-family: arial;
+}
+.bbuttons {
+    text-align: center;
+}
